@@ -19,3 +19,5 @@ qdrant-client
 # LLMs
 groq
 langgraph
+
+python-multipart
